@@ -3,15 +3,6 @@
 <body>
 
 <script>
-window.onload = valami;
-
-valami = function() {
-
-para = document.getElementById("demo");
-
-para.onclick = onclickfunc;
-
-}
 
 function onclickfunc() {
   para = document.getElementById("demo");
@@ -23,6 +14,18 @@ function onclickfunc() {
   para.innerHTML = "Hello JS";
 }
 }
+
+
+window.onload = valami;
+
+valami = function() {
+
+para = document.getElementById("demo");
+
+para.onclick = onclickfunc;
+
+}
+
 </script>
 
 <h1>Hello World</h1>
