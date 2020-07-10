@@ -3,7 +3,26 @@
 <body>
 
 <script>
-window.onload = function() {document.getElementById("demo").innerHTML = "Hello JavaScript!";}
+window.onload = valami
+
+valami = function() {
+
+para = document.getElementById("demo")
+
+para.onclick = onclickfunc
+
+}
+
+function onclickfunc() {
+  para = document.getElementById("demo")
+  current = para.innerHTML
+  if (current === "Hello JS") {
+  para.innerHTML = "I'm hosted with GitHub Pages."
+} else {
+
+  para.innerHTML = "Hello JS"
+}
+}
 </script>
 
 <h1>Hello World</h1>
