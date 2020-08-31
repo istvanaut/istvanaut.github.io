@@ -1,6 +1,6 @@
 # About
 
-![Istvan Fabian profile photo](profile.jpg)
+<img align="left" src="profile.jpg">
 
 I'm a PhD student at the Budapest University of Technology and Economics. My research interests include:
 
