@@ -1,12 +1,6 @@
-# Let's use this way
+# About
+I'm a PhD student at the Budapest University of Technology and Economics. My research interests include:
 
-Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!Hurraaaay!
-Hurraaaay!
-Hurraaaay!
-Hurraaaay!
-
-Hurraaaay!
-Hurraaaay!
-Hurraaaay!
-Hurraaaay!
-Hurraaaay!
+* Privacy and Security in Machine Learning
+* Face Recognition
+* Internet of Things
