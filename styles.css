@@ -10,3 +10,7 @@ body {
   border: 2px solid #ffffff;
   text-align: left;
 }
+
+#about-section > img {
+  float: left;
+}
