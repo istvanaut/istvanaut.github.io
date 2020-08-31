@@ -1,4 +1,4 @@
-# About
+## About
 
 <img align="left" src="profile.jpg">
 
